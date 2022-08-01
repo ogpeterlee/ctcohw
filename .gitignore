@@ -1,0 +1,13 @@
+target/ctco-0.0.1.jar
+target/classes/iptests/WebDriverAutoDownload.class
+target/maven-archiver/pom.properties
+target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
+target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+target/surefire-reports/iptests.AppTest.txt
+target/surefire-reports/TEST-iptests.AppTest.xml
+target/test-classes/iptests/AppTest.class
+target/test-classes/pageObjects/LandingPage.class
+target/test-classes/pageObjects/Page.class
+target/test-classes/pageObjects/VacansiesPage.class
